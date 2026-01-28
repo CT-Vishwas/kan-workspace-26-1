@@ -1,0 +1,10 @@
+NAMES,AGE,CITY,SALARY,age_group,salary_bonus,DEPARTMENT
+vishwas,25,Bangalore,25000.0,Adult,2500.0,IT
+arjun,21,mumbai,45000.0,Young,4500.0,SALES
+ramya,19,pune,75000.0,Young,7500.0,IT
+John,35,Unkown,90000.0,Adult,9000.0,SALES
+Krishna,10,Kolkata,10000.0,Young,1000.0,FINANCE
+Cady,27,Chandigarh,23000.0,Adult,2300.0,FINANCE
+Balram,45,Kolkata,90000.0,Adult,9000.0,SALES
+Jane,23,Kolkata,90000.0,Young,9000.0,SALES
+Jugnu,46,Kolkata,8000.0,Adult,800.0,IT
